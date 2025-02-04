@@ -1,0 +1,3 @@
+- https://blog.djnavarro.net/posts/2023-04-09_webr/ (for creating your webpage) 
+- https://www.geeksforgeeks.org/how-to-embed-my-machine-learning-r-code-in-a-website/ (for taking input?) 
+                                                                                       ^ this is something you can learn from. 
