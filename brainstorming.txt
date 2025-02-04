@@ -3,5 +3,6 @@ RESOURCES
 - https://www.geeksforgeeks.org/how-to-embed-my-machine-learning-r-code-in-a-website/ (for taking input?) 
                                                                                        ^ this is something you can learn from. 
 IDEAS FOR THE TEXT BASED ADVENTURE
-- it's the end of the world, you are the last person living, and you have two hours left to spend. 
+- it's the end of the world, you are the last person living, and you have two hours left to spend before you succumb 
+to the disease that everyone else has died of. 
 - the library of ruined-you 
